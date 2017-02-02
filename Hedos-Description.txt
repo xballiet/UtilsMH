@@ -1,0 +1,38 @@
+﻿Alors que tu marches dans une sombre caverne, un objet attire ton regard aiguisé.
+En t’approchant, tu aperçois un vieux parchemin couvert d’inscriptions bizarres…
+Croyant avoir enfin trouvé le sort de tes rêves, tu t’empresses de le saisir, de le dépoussiérer d’un rapide coup de poil et là… ton moral retombe au fin fond de tes bottes…
+Hé oui, ce n’est pas une mission et encore moins un sort, à vrai dire ce n’est qu’une publicité de guilde… mais quelle guilde ! Celle des [b][guilde=2102]Hédonistrolls[/guilde][/b] !
+
+Emporté par une vague de colère, te demandant quels sont les imbéciles qui peuvent laisser traîner des immondices pareilles, ou qui sait, mû par une irrépressible envie de découverte, tu commences à déchiffrer les premières lignes de ce fameux manuscrit à l’aide de ta torche :
+
+[center][img]https://xballiet.github.io/ImagesMH/Parchemin1.gif[/img][/center]
+[b]« Bonjour à toi noble Trõll(ette).
+Le Hall n’est plus aussi sûr que dans les Temps Anciens.
+Les pouvoirs maléfiques et les monstres deviennent de plus en plus puissants et sournois.
+La solitude te gagne, la peur te guette !
+Dans ce Hall hostile, tu recherches la bonne humeur et le plaisir !?
+Alors peut-être qu'au fond de ton âme se cache un Hédoniste ! »[/b]
+
+Suite à ces phrases, tes yeux s’illuminent et ta colère se dissipe.
+Ta curiosité t’invite à continuer à lire ce parchemin.
+
+[b]« Sache que parmi nous tu trouveras ta place, que les [guilde=2102]Hédonistrolls[/guilde] t'accueilleront comme leur frère et que rapidement tu oublieras les notions de peur et de solitude.
+Au sein de notre clan, tous les régimes alimentaires sont représentés.
+Chacun est accepté tel qu'il est, trouve la place qui lui convient et peut compter sur le soutien de ses pairs.
+
+L'Ours guide nos pas et nous confère sa puissance.
+En retour, nous l'adorons et (dans la mesure du possible) épargnons ses enfants.
+Partout dans le Hall, nous prêchons Sa bonne parole et diffusons Ses messages illuminés de sagesse animale.
+
+Si tu souhaites nous rejoindre, prend contact avec [troll=67755]Darsch[/troll].
+
+Et que l'Ours guide tes pas ! »[/b]
+[center][img]https://xballiet.github.io/ImagesMH/Parchemin2.gif[/img][/center]
+
+Bien que l'idée de rejoindre un groupe soudé, organisé, disposant d'importantes ressources et ouvert à tous les trõlls du hall aimant le rire et la bagarre te tente, tu t'apprêtes à froisser le prospectus et à le jeter par-dessus ton épaule.
+Lorsque… tes yeux entraperçoivent de petits caractères en bas de page :
+[b]« PS : Une pinte de calvök est offerte à tout nouvel adhérent (*) (**)
+(*) Offre sans obligation d'achat
+(**) Offre valable uniquement jusqu'à la fin du cycle »[/b]
+
+Cette fois ta volonté est vaincue et déjà tes jambes se mettent en mouvement et te dirigent vers le [b][url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1048411]Temple de l'Ours[/url] en (17, 49, -3)[/b] pour y prendre un bon calvök en agréable compagnie.
