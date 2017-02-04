@@ -44,6 +44,7 @@ Voici les listes de compos/champi/minerai disponibles :
 [*][troll=11119]Grand Père Uz[/troll] - Échange de compos
 [*][troll=84357]gravos[/troll] - Échange de compos
 [*][troll=73296]Gruhtzog[/troll] - Échange de compos
+[*][troll=107750]Hymir[/troll] - Échange de compos
 [*][troll=99746]Jefferson[/troll] - Échange de compos
 [*][guilde=3308]Joyeuse Confrérie[/guilde] - Échange de compos
 [*][troll=101462]karak[/troll] - Échanges de compos
