@@ -76,6 +76,7 @@ Voici les listes de compos/champi/minerai disponibles :
 [*][troll=94911]The last angel[/troll] - Échange de compos
 [*][troll=16950]troll de dame[/troll] - Échange de compos
 [*][troll=90222]Valnir le Moissonneur[/troll] - Vente càc enragés
+[*][troll=108942]VéKa[/troll] - Échange de compos
 [*][troll=58949]Vicino[/troll] - Échanges de compos
 [*][troll=80689]Vlad Tefess[/troll] - Échanges de compos
 [*][troll=5363]wose[/troll] - Échange de compos
