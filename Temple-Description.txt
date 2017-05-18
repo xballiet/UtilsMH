@@ -76,7 +76,7 @@ Voici les listes de compos/champi/minerai disponibles :
 [*][troll=108822]Saurthaipépettes l'artisan[/troll] - Échange de compos
 [*][troll=46964]shamp' yon' dai'[/troll] - Échange de compos
 [*][troll=35422]Shempyondës[/troll] - [guilde=2352]Les Légions Sanglantes[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=34644]au Légionnaire fortuné[/url] en (-38, -30, -31) - Échange de compos
-[*][troll=109409]Sigurd[/troll] - Échange de compo
+[*][troll=109409]Sigurd[/troll] - Échanges de compos
 [*][troll=94911]The last angel[/troll] - Échange de compos
 [*][troll=16950]troll de dame[/troll] - Échange de compos
 [*][troll=90222]Valnir le Moissonneur[/troll] - Vente càc enragés
