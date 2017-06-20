@@ -13,7 +13,6 @@
 
 [b]Mémento - matos envisagés :[/b]
 [img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] Cagoule du Sable (ESQ : +4 | Vue : -2 | Armure : +0-1 | MM : +10 %)
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] Grimoire du Sable (ATT : -2+2 | ESQ : +3 | DEG : -1+1 | Vue : -1 | TOUR : +10 min | Armure : +0-1 | MM : +10 %)
 [img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] Talisman d'Obsidienne du Sable (ATT : +1 | ESQ : +3 | DEG : +2 | REG : -4 | Vue : -1 | Armure : +0-1 | RM : +40 % | MM : +40 %)
 
 [b]Mémento - lieu à visiter :[/b]
