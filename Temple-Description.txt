@@ -43,6 +43,7 @@ Voici les listes de compos/champi/minerai disponibles :
 [*][troll=47765]Eckmül Le Gros[/troll] - [guilde=2706]Trollinets en Colère[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=542659]Trollinets En Colère[/url] en (-6, 33, -26)
 [*][troll=109902]Feldeziem[/troll] - Échange de compos
 [*][troll=102584]frogg[/troll] - Échanges divers très sympathiques !
+[*][troll=93593]galaad[/troll] - Échange de compos
 [*][troll=74469]garci'mord[/troll] - Échange de compos
 [*][guilde=2319]Glamo Poutro Trasheurs de MountyHall[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=34188]Avant Garde du GPTMH[/url] en (5, 0, -8)
 [*][troll=11119]Grand Père Uz[/troll] - Échange de compos
