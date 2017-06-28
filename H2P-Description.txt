@@ -1,4 +1,4 @@
-﻿[b]Je propose mes services en [url=https://xballiet.github.io/CalculsTP/CalculsTP.html]téléportation[/url][/b] (80%) à [b]147[/b] cavernes horizontalement et [b]29[/b] verticalement (l'[b]H2TP[/b] reste ouvert de 2 à 7 jours)
+﻿[b]Je propose mes services en [url=https://xballiet.github.io/CalculsTP/CalculsTP.html]téléportation[/url][/b] (80%) à [b]149[/b] cavernes horizontalement et [b]30[/b] verticalement (l'[b]H2TP[/b] reste ouvert de 2 à 7 jours)
 [b]Selon votre humeur, vous pouvez me proposer une rétribution en GG, en composant(s) ou éventuellement en objets... à vot' bon cœur...[/b]
 
 
@@ -12,8 +12,10 @@
 [img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] [url=http://mountypedia.mountyhall.com/Mountyhall/VisionLointaine]VL[/url]
 
 [b]Mémento - matos envisagés :[/b]
+[img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] Anneau de protection du Sable en Mithril : Aura de Feu ou Aura Vengeresse, voire Souffle de Feu (ESQ : +3 | Vue : -1 | Armure : +0-1 | Protection : XXX)
+[img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] Pagne de mailles du Sable en Mithril (ESQ : +5 | Vue : -1 |Armure : 1)
+[img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] Rondache en métal du Sable en Mithril (ESQ : +4 | Vue : -1 |Armure : 1)
 [img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] Cagoule du Sable (ESQ : +4 | Vue : -2 | Armure : +0-1 | MM : +10 %)
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] Talisman d'Obsidienne du Sable (ATT : +1 | ESQ : +3 | DEG : +2 | REG : -4 | Vue : -1 | Armure : +0-1 | RM : +40 % | MM : +40 %)
 
 [b]Mémento - lieu à visiter :[/b]
 [img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] [url=http://www.mountyhall.com/Forum/display_topic_threads.php?ForumID=11&TopicID=155580]Le Musée des Champions[/url] en [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1226977]45, 66, -11[/url]
