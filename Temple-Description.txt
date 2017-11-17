@@ -58,7 +58,6 @@ Voici les listes de compos/champi/minerai disponibles :
 [*][troll=82325]kaya31[/troll] - Échange de compos
 [*][troll=68376]Klara Oeil de Braize[/troll] - Grande Amie des Hédos - Échanges de compos
 [*][troll=109910]Koveras[/troll] - Échange de compos
-[*][guilde=128]Le clan des Karlaaki[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=33923]Karnaak La Belle[/url] en (84, 27, -50)
 [*][guilde=3486]L'Edÿfÿce[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1634640]Grande Tanière de l'Edÿfÿce[/url] en (41, -86, -22)
 [*][troll=108406]LeeRoy[/troll] - [guilde=1845]La Grande Panse[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=54801]La Grande Pansière[/url] en (55, 45, -22) - Échange de compos
 [*][guilde=2077]Les copains de Belgarion[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=135165]Au refuge de Belgarion[/url] en (47, -86, -15)
