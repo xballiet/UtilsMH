@@ -3,7 +3,7 @@
 
 [center]A proximité de la surface, en ce [b]Temple Ursique[/b], les [b]Hédonistrolls[/b] viennent se recueillir sous le regard bienveillant de l'[b]Ours[/b].
 
-[b][u]ATTENTION ! Les gowaps qui stagnent autour des tanières et nous font perdre des PAs en DE pour rien se verront marqués à notre guise...![/u][/b]
+[b][u]ATTENTION ! Les gowaps qui stagnent autour des tanières et nous font perdre des PAs en DE pour rien se verront marqués à notre guise, voire éliminés...![/u][/b]
 
 [img]https://xballiet.github.io/ImagesMH/Ourss.jpg[/img][/center]
 
@@ -12,7 +12,7 @@
 De [troll=96089]Paradous[/troll] - [guilde=3682]BierépunK[/guilde] => 2 Compos TB
 
 [b]Dettes des Hédo[/b] :
-A [troll=14511]ethan le rouge[/troll] : Mandibule d'une Araignée Géante de Qualité Très Bonne [Spécial] 
+À [troll=14511]ethan le rouge[/troll] : Mandibule d'une Araignée Géante de Qualité Très Bonne [Spécial] 
 Aux [guilde=2077]copains de Belgarion[/guilde] :
 [list][*]Fourrure d'un Barghest Corps | Qualité: Mauvaise
 [*]Œil d'un Palefroi Infernal Tête | Qualité: Moyenne
@@ -23,7 +23,7 @@ Aux [guilde=2077]copains de Belgarion[/guilde] :
 
 
 [b]Pour le commerce[/b], vous pouvez contacter [troll=88938]Gnasoif[/troll] ou [troll=43406]H2P[/troll].
-Voici les listes de compos/champi/minerai disponibles :
+Voici les listes de compos/champis/minerai disponibles :
 [url=http://troc.mountyhall.com/get.php?trollid=88938][img]http://troc.mountyhall.com/nb_compo_png.php?trollid=88938[/img][/url]
 [url=http://troc.mountyhall.com/get.php?trollid=88938&stock=champi][img]http://troc.mountyhall.com/nb_champi_png.php?trollid=88938[/img][/url]
 [url=http://troc.mountyhall.com/get.php?trollid=88938&stock=minerai][img]http://troc.mountyhall.com/nb_minerai_png.php?trollid=88938[/img][/url]
