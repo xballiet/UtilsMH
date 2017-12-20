@@ -12,7 +12,7 @@
 De [troll=96089]Paradous[/troll] - [guilde=3682]BierépunK[/guilde] => 2 Compos TB
 
 [b]Dettes des Hédo[/b] :
-À [troll=14511]ethan le rouge[/troll] : Mandibule d'une Araignée Géante de Qualité Très Bonne [Spécial] 
+À [troll=14511]ethan le rouge[/troll] : Mandibule d'une Araignée Géante de Qualité Très Bonne [Spécial]
 Aux [guilde=2077]copains de Belgarion[/guilde] :
 [list][*]Fourrure d'un Barghest Corps | Qualité: Mauvaise
 [*]Œil d'un Palefroi Infernal Tête | Qualité: Moyenne
@@ -30,64 +30,61 @@ Voici les listes de compos/champis/minerai disponibles :
 
 
 [b]Relations et destinations commerciales[/b] :
-[list][*][troll=75255]Achtou Toufin[/troll] - Échange de compos
-[*][troll=95689]Al' A. MiseRrr[/troll] (potrõll d'[troll=61183]Iksbe[/troll]) - Échanges de compos
-[*][troll=73556]Alfred[/troll] - Échange de compos
+[list][*][troll=75255]Achtou Toufin[/troll] - [guilde=4018]Le Clan Vif-Argent[/guilde] - Échange de compos
+[*][troll=95689]Al' A. MiseRrr[/troll] (potrõll d'[troll=61183]Iksbe[/troll]) - [guilde=1603]Al' Har Hache [/guilde] - Échanges de compos
+[*][troll=73556]Alfred[/troll] - [guilde=509]Skato Tradis Varius[/guilde] - Échange de compos
 [*][troll=15323]Angel[/troll] - Échange de compos
-[*][troll=78149]Arateris[/troll] - Échanges de compos
+[*][troll=78149]Arateris[/troll] - [guilde=4097]Extrollatus de profondis[/guilde] - Échanges de compos
 [*][troll=87436]Awrak[/troll] - Échange de compos
 [*][troll=19747]Barakdur[/troll] et [troll=24997]KIKASTOU[/troll] - [guilde=3341]O.R.T.E.I.L[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=398315]Caverne du gros ORTEIL[/url] en (9, 46, -15) - Échanges multiples, trõlls très sympa !
 [*][troll=17690]Bork 1er - Roi des Trolls[/troll] - Échange de compos
-[*][troll=92039]Bulldozer[/troll] - Échange de compos très sympathique !
+[*][troll=92039]Bulldozer[/troll] - [guilde=3871] Hacinare[/guilde] - Échange de compos très sympathique !
 [*][troll=91212]Castreur[/troll] - Vente Woeepaah taillé contre sort + compos + GGs
 [*][troll=60427]cumulo-nimbus[/troll] - [guilde=3813]Les Velus[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1174296]A la Tarte aux Poils[/url] en (44, 3, -32) - Équipements divers et compos (1500GG quelle que soit la qualité, puis dégressif en fonction du nombre)
-[*][troll=74072]DarkToTo[/troll] - Échange de compos
+[*][troll=74072]DarkToTo[/troll] - [guilde=3885]Family Pot[/guilde] - Échange de compos
 [*][troll=81599]disturbed[/troll] - Échange de compos
 [*][troll=47765]Eckmül Le Gros[/troll] - [guilde=2706]Trollinets en Colère[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=542659]Trollinets En Colère[/url] en (-6, 33, -26)
-[*][troll=109902]Feldeziem[/troll] - Échange de compos
+[*][troll=109902]Feldeziem[/troll], [troll=107750]Hymir[/troll] et [troll=90502]Phallix[/troll] - [guilde=2958]Tous au boulot![/guilde] - Échanges de compos
 [*][troll=102584]frogg[/troll] - Échanges divers très sympathiques !
-[*][troll=93593]galaad[/troll] - Échange de compos
-[*][troll=74469]garci'mord[/troll] - Échange de compos
+[*][troll=93593]galaad[/troll] - [guilde=4089] Galette Saucisse Killer Club[/guilde] - Échange de compos
+[*][troll=74469]garci'mord[/troll] - [guilde=87]T.R.O.L.L.S.[/guilde] - Échange de compos
 [*][guilde=2319]Glamo Poutro Trasheurs de MountyHall[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=34188]Avant Garde du GPTMH[/url] en (5, 0, -8)
-[*][troll=11119]Grand Père Uz[/troll] - Échange de compos
-[*][troll=84357]gravos[/troll] - Échange de compos
-[*][troll=73296]Gruhtzog[/troll] - Échange de compos
-[*][troll=107750]Hymir[/troll] - Échange de compos
+[*][troll=11119]Grand Père Uz[/troll] - [guilde=61]Les Mouchquetaires[/guilde] - Échange de compos
+[*][troll=84357]gravos[/troll] - [guilde=3870]Les Nouch'kaï[/guilde] - Échange de compos
+[*][troll=73296]Gruhtzog[/troll] - [guilde=4127]Intertrõllesque Minière des Associés Pourfendeurs[/guilde] - Échange de compos
 [*][troll=99746]Jefferson[/troll] - Échange de compos
 [*][guilde=3308]Joyeuse Confrérie[/guilde] - Échange de compos
-[*][troll=101462]karak[/troll] - Échanges de compos
-[*][troll=82325]kaya31[/troll] - Échange de compos
-[*][troll=68376]Klara Oeil de Braize[/troll] - Grande Amie des Hédos - Échanges de compos
-[*][troll=109910]Koveras[/troll] - Échange de compos
+[*][troll=101462]karak[/troll] - [guilde=281]La Horde[/guilde] - Échanges de compos
+[*][troll=82325]kaya31[/troll] - [guilde=4064] Néanderthrölls[/guilde] - Échange de compos
+[*][troll=68376]Klara Oeil de Braize[/troll], Grande Amie des Hédos - [guilde=3835]L'Ermitage[/guilde] - Échanges de compos
 [*][guilde=3486]L'Edÿfÿce[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1634640]Grande Tanière de l'Edÿfÿce[/url] en (41, -86, -22)
 [*][troll=108406]LeeRoy[/troll] - [guilde=1845]La Grande Panse[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=54801]La Grande Pansière[/url] en (55, 45, -22) - Échange de compos
 [*][guilde=2077]Les copains de Belgarion[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=135165]Au refuge de Belgarion[/url] en (47, -86, -15)
-[*][troll=42930]Lof[/troll] - Échange de compos
+[*][troll=42930]Lof[/troll] - [guilde=574]Les guerriers de l'Ankou[/guilde] - Échange de compos
 [*][troll=65067]Lord Morkaï[/troll] - [guilde=525]MOUNTY TRöLL[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=46851]MOUNTY TRöLL creeping circus[/url] en (-24, -82, -31) - Échange de compos
 [*][troll=88425]malsat[/troll] et [troll=2450]Klakbeinié[/troll] - [guilde=128]Le clan des Karlaaki[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=33923]Karnaak La Belle[/url] en (84, 27, -50) - Échange de compos
-[*][troll=99348]Mardaag[/troll] - Échange de compo
+[*][troll=99348]Mardaag[/troll] - [guilde=3978]~~les GrosPet'Trolls~~~[/guilde] - Échange de compo
 [*][troll=87824]Mamie Ansky[/troll] - [guilde=1729]les ElecTrolls Libres[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1690718]Succursale ETL[/url] en (44, 3, -36) - Échanges de compos
-[*][troll=65705]Nilltoe[/troll] - Échange de compos
+[*][troll=65705]Nilltoe[/troll] - [guilde=445]Le Message Du Père[/guilde] - Échange de compos
 [*][troll=105204]Niunieu[/troll] - [guilde=3206]Les Damnées[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=387554]La Porte des Enfers[/url] en (49, 11, -33) - Échanges de compos
 [*][troll=108511]Otium[/troll] et [troll=107801]Jean-luc[/troll] - [guilde=4042][Sauvage][/guilde] - Échange de compo
 [*][troll=108632]'Oune[/troll], descendante de [troll=20191]Mamoune[/troll] - [guilde=2372]Le Cercle des Psyko-Chasseurs[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=79179]Au Refuge du Chasseur[/url] en (44, -91, -21)
-[*][troll=93589]PECKET[/troll] - Échange de compos
-[*][troll=90502]Phallix[/troll] - Échange de compos
-[*][troll=108278]Phistocrilius[/troll] - Échange de compos
-[*][troll=26610]Rakarth[/troll] - Achat bottes sable contre GGs
+[*][troll=93589]PECKET[/troll] - [guilde=3708]Sopratrolls[/guilde] - Échange de compos
+[*][troll=108278]Phistocrilius[/troll] - [guilde=4153]Brigands ![/guilde] - Échange de compos
+[*][troll=26610]Rakarth[/troll] - [guilde=3274]PourriTroll Attitude Corporation[/guilde] - Achat bottes sable contre GGs
 [*][troll=90652]Rolerotrol[/troll] - Échange de compos
-[*][troll=20842]SamLePirate[/troll] - Échange de compos
+[*][troll=20842]SamLePirate[/troll] - [guilde=4080]Solar Fire [Damnés][/guilde] - Échange de compos
 [*][troll=108822]Saurthaipépettes l'artisan[/troll] - Échange de compos
-[*][troll=46964]shamp' yon' dai'[/troll] - Échange de compos
+[*][troll=46964]shamp' yon' dai'[/troll] et [troll=16950]troll de dame[/troll] - [guilde=3918]Trolls-de-Poing de l'Haruspice[/guilde] - Échanges de compos
 [*][troll=35422]Shempyondës[/troll] - [guilde=2352]Les Légions Sanglantes[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=34644]au Légionnaire fortuné[/url] en (-38, -30, -31) - Échange de compos
 [*][troll=109409]Sigurd[/troll] - Échanges de compos
 [*][troll=53237]tarte_aux_pommes[/troll] - [guilde=2302]Les Fun Trõlls Aquatiques[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=244631]Les Fun Trõlls Aquatiques[/url] en (-13, 91, -9) - Échange de compos et tête réduite
-[*][troll=94911]The last angel[/troll] - Échange de compos
-[*][troll=16950]troll de dame[/troll] - Échange de compos
-[*][troll=90222]Valnir le Moissonneur[/troll] - Vente càc enragés
-[*][troll=108942]VéKa[/troll] - Échange de compos
+[*][troll=94911]The last angel[/troll] - [guilde=3981]Inglorious Trolls[/guilde] - Échange de compos
+[*][troll=87226]Torock[/troll] - [guilde=450]RELAIS&MAGO[/guilde] - Échange de compos
+[*][troll=90222]Valnir le Moissonneur[/troll] - Vente CàC Enragés
+[*][troll=108942]VéKa[/troll] et [troll=109910]Koveras[/troll] - [guilde=678]La Confrérie du Scarabée[/guilde] - Échanges de compos
 [*][troll=58949]Vicino[/troll] - Échanges de compos
 [*][troll=80689]Vlad Tefess[/troll] - Échanges de compos
-[*][troll=5363]wose[/troll] - Échange de compos
-[*][troll=99041]Ymer[/troll] - Échange de compos
-[*][troll=10935]Zouzou[/troll] et [troll=100696]Nuts[/troll] - Vente de champis[/list]
+[*][troll=5363]wose[/troll] - [guilde=201]FENJ[/guilde] - Échange de compos
+[*][troll=99041]Ymer[/troll] - [guilde=3800]Les MousqueTrolls[/guilde] - Échange de compos
+[*][troll=10935]Zouzou[/troll] et [troll=100696]Nuts[/troll] - [guilde=3977]Les Chevaliers TK[/guilde] - Vente de champis[/list]
