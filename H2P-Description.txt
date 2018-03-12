@@ -6,17 +6,7 @@
 [img]/MH_Packs/packMH_parchemin/bullet/bullet_purple.jpg[/img] [troll=43406]personne[/troll] [guilde=2102][/guilde]
 
 [b]Mémento - compétences et caractéristiques à trépaner :[/b]
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] Interposition 1 & 2 = 20 PI + 40 PI => OK
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_orange.jpg[/img] Hurlement Effrayant = 20 PI
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_orange.jpg[/img] Pistage = 10 PI
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_orange.jpg[/img] Insulte 2 & 3 = 20 PI + 30 PI
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_orange.jpg[/img] Piège à glue = 50 PI
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_orange.jpg[/img] Durée du tour = 144 PI
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_orange.jpg[/img] Vue = 540 PI
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_red.jpg[/img] Charge = 50 PI
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_red.jpg[/img] Grattage = 30 PI
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_red.jpg[/img] Marquage = 30 PI
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_red.jpg[/img] Travail de la pierre = 10 PI
+[img]/MH_Packs/packMH_parchemin/bullet/bullet_purple.jpg[/img] [url=http://alliance-doree.forum-actif.eu/t7310-h2pogee#97006]TrépanaPogée[/url]
 
 [b]Mémento - sorts envisagés :[/b]
 [img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] [url=http://mountypedia.mountyhall.com/Mountyhall/IdentificationDesTresors]IdT2[/url] (en cours d'apprentissage par ogham)
