@@ -1,7 +1,7 @@
 ﻿)!( Temple de l'Ours )!(
 
 
-[center]A proximité de la surface, en ce [b]Temple Ursique[/b], les [b]Hédonistrolls[/b] viennent se recueillir sous le regard bienveillant de l'[b]Ours[/b].
+[center]À proximité de la surface, en ce [b]Temple Ursique[/b], les [b]Hédonistrolls[/b] viennent se recueillir sous le regard bienveillant de l'[b]Ours[/b].
 
 [b][u]ATTENTION ! Les gowaps qui stagnent autour des tanières et nous font perdre des PAs en DE pour rien se verront marqués à notre guise, voire éliminés...![/u][/b]
 
@@ -40,11 +40,12 @@ Voici les listes de compos/champis/minerai disponibles :
 [*][troll=17690]Bork 1er - Roi des Trolls[/troll] - Échange de compos
 [*][troll=92039]Bulldozer[/troll] - [guilde=3871] Hacinare[/guilde] - Échange de compos très sympathique !
 [*][troll=91212]Castreur[/troll] - Vente Woeepaah taillé contre sort + compos + GGs
-[*][troll=60427]cumulo-nimbus[/troll] - [guilde=3813]Les Velus[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1174296]A la Tarte aux Poils[/url] en (44, 3, -32) - Équipements divers et compos (1500GG quelle que soit la qualité, puis dégressif en fonction du nombre)
+[*][troll=60427]cumulo-nimbus[/troll] - [guilde=3813]Les Velus[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1174296]À la Tarte aux Poils[/url] en (44, 3, -32) - Équipements divers et compos (1500GG quelle que soit la qualité, puis dégressif en fonction du nombre)
 [*][troll=74072]DarkToTo[/troll] - [guilde=3885]Family Pot[/guilde] - Échange de compos
 [*][troll=81599]disturbed[/troll] - Échange de compos
 [*][troll=47765]Eckmül Le Gros[/troll] - [guilde=2706]Trollinets en Colère[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=542659]Trollinets En Colère[/url] en (-6, 33, -26)
 [*][troll=109902]Feldeziem[/troll], [troll=107750]Hymir[/troll] et [troll=90502]Phallix[/troll] - [guilde=2958]Tous au boulot![/guilde] - Échanges de compos
+[*][troll=38945]Floqk[/troll] - [guilde=104]Whog Trolls[/guilde] - Échange de compo
 [*][troll=102584]frogg[/troll] - Échanges divers très sympathiques !
 [*][troll=93593]galaad[/troll] - [guilde=4089] Galette Saucisse Killer Club[/guilde] - Échange de compos
 [*][troll=74469]garci'mord[/troll] - [guilde=87]T.R.O.L.L.S.[/guilde] - Échange de compos
