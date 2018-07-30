@@ -53,6 +53,7 @@ Voici les listes de compos/champis/minerai disponibles :
 [*][troll=11119]Grand Père Uz[/troll] - [guilde=61]Les Mouchquetaires[/guilde] - Échange de compos
 [*][troll=84357]gravos[/troll] - [guilde=3870]Les Nouch'kaï[/guilde] - Échange de compos
 [*][troll=73296]Gruhtzog[/troll] - [guilde=4127]Intertrõllesque Minière des Associés Pourfendeurs[/guilde] - Échange de compos
+[*][troll=70944]Ibuku[/troll] - Échange de compos
 [*][troll=99746]Jefferson[/troll] - Échange de compos
 [*][guilde=3308]Joyeuse Confrérie[/guilde] - Échange de compos
 [*][troll=101462]karak[/troll] - [guilde=281]La Horde[/guilde] - Échanges de compos
