@@ -38,8 +38,9 @@ Voici les listes de compos/champis/minerai disponibles :
 [*][troll=87436]Awrak[/troll] - Échange de compos
 [*][troll=19747]Barakdur[/troll] et [troll=24997]KIKASTOU[/troll] - [guilde=3341]O.R.T.E.I.L[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=398315]Caverne du gros ORTEIL[/url] en (9, 46, -15) - Échanges multiples, trõlls très sympa !
 [*][troll=17690]Bork 1er - Roi des Trolls[/troll] - Échange de compos
-[*][troll=92039]Bulldozer[/troll] - [guilde=3871] Hacinare[/guilde] - Échange de compos très sympathique !
+[*][troll=92039]Bulldozer[/troll] - [guilde=3871]Hacinare[/guilde] - Échange de compos très sympathique !
 [*][troll=91212]Castreur[/troll] - Vente Woeepaah taillé contre sort + compos + GGs
+[*][troll=18897]crunchy[/troll] - [guilde=4118]Les Ermites de la Flamme [EDF][/guilde] - Échange de compo
 [*][troll=60427]cumulo-nimbus[/troll] - [guilde=3813]Les Velus[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1174296]À la Tarte aux Poils[/url] en (44, 3, -32) - Équipements divers et compos (1500GG quelle que soit la qualité, puis dégressif en fonction du nombre)
 [*][troll=74072]DarkToTo[/troll] - [guilde=3885]Family Pot[/guilde] - Échange de compos
 [*][troll=81599]disturbed[/troll] - Échange de compos
@@ -47,7 +48,7 @@ Voici les listes de compos/champis/minerai disponibles :
 [*][troll=109902]Feldeziem[/troll], [troll=107750]Hymir[/troll] et [troll=90502]Phallix[/troll] - [guilde=2958]Tous au boulot![/guilde] - Échanges de compos
 [*][troll=38945]Floqk[/troll] - [guilde=104]Whog Trolls[/guilde] - Échange de compo
 [*][troll=102584]frogg[/troll] - Échanges divers très sympathiques !
-[*][troll=93593]galaad[/troll] - [guilde=4089] Galette Saucisse Killer Club[/guilde] - Échange de compos
+[*][troll=93593]galaad[/troll] - [guilde=4089]Galette Saucisse Killer Club[/guilde] - Échange de compos
 [*][troll=74469]garci'mord[/troll] - [guilde=87]T.R.O.L.L.S.[/guilde] - Échange de compos
 [*][guilde=2319]Glamo Poutro Trasheurs de MountyHall[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=34188]Avant Garde du GPTMH[/url] en (5, 0, -8)
 [*][troll=11119]Grand Père Uz[/troll] - [guilde=61]Les Mouchquetaires[/guilde] - Échange de compos
@@ -57,7 +58,7 @@ Voici les listes de compos/champis/minerai disponibles :
 [*][troll=99746]Jefferson[/troll] - Échange de compos
 [*][guilde=3308]Joyeuse Confrérie[/guilde] - Échange de compos
 [*][troll=101462]karak[/troll] - [guilde=281]La Horde[/guilde] - Échanges de compos
-[*][troll=82325]kaya31[/troll] - [guilde=4064] Néanderthrölls[/guilde] - Échange de compos
+[*][troll=82325]kaya31[/troll] - [guilde=4064]Néanderthrölls[/guilde] - Échange de compos
 [*][troll=68376]Klara Oeil de Braize[/troll], Grande Amie des Hédos - [guilde=3835]L'Ermitage[/guilde] - Échanges de compos
 [*][guilde=3486]L'Edÿfÿce[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1634640]Grande Tanière de l'Edÿfÿce[/url] en (41, -86, -22)
 [*][troll=108406]LeeRoy[/troll] - [guilde=1845]La Grande Panse[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=54801]La Grande Pansière[/url] en (55, 45, -22) - Échange de compos
