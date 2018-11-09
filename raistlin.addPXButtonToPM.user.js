@@ -44,7 +44,7 @@ function getPersoList() {
 
 // Ajout du bouton de don de PX au début de la ligne des autres boutons (plus simple)
 function addButton() {
-	var insertPoint = document.getElementsByName('bAnswer')[0];
+	var insertPoint = document.getElementsByName('bClose')[0];
 
 	// On crée le div du bouton
 	var npButtonDiv = document.createElement('div');
