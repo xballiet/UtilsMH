@@ -50,7 +50,7 @@ function addButton() {
 	var npButtonDiv = document.createElement('div');
 
 	// On ajoute le bouton
-	var npButton = appendButton(npButtonDiv, 'Donner des PX', sendPX);
+	var npButton = appendButton(npButtonDiv, 'Donner des PX Test', sendPX);
 
 	// On ajoute le div à la page
 	insertBefore(insertPoint, npButtonDiv);
