@@ -25,6 +25,18 @@ function insertBefore(next, el) {
 	next.parentNode.insertBefore(el, next);
 }
 
+function insertAfter(elt, newElt) {
+	var id = getMyID(elt);
+	if (id == -1) {
+		return;
+	}
+	if (id < elt.parentNode.childNodes.length - 1) {
+		insertBefore(elt.nextSibling, newElt);
+	} else {
+		elt.parentNode.appendChild(newElt);
+	}
+}
+
 // Récupération de la liste des destinataires + émetteur
 function getPersoList() {
 	var persoList = new Array();
@@ -53,7 +65,7 @@ function addButton() {
 	var npButton = appendButton(npButtonDiv, 'Donner des PX Test', sendPX);
 
 	// On ajoute le div à la page
-	insertBefore(insertPoint, npButtonDiv);
+	insertAfter(insertPoint, npButtonDiv);
 }
 
 // Fonction utilisée quand on clique sur le bouton pour envoyer sur la page du don
