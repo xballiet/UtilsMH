@@ -1,6 +1,6 @@
 {
     "createdBy": "Redirector v3.5.3",
-    "createdAt": "2020-09-07T08:28:04.278Z",
+    "createdAt": "2020-09-07T12:55:01.454Z",
     "redirects": [
         {
             "description": "MH -> MHP",
@@ -40,6 +40,32 @@
             "patternType": "W",
             "processMatches": "noProcessing",
             "disabled": true,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        },
+        {
+            "description": "MH -> MHF",
+            "exampleUrl": "http://mountyhall.com/MH_Rules/Rules_14.php",
+            "exampleResult": "https://mhf.mh.raistlin.fr/MH_Rules/Rules_14.php",
+            "error": null,
+            "includePattern": "http*://mountyhall.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://mhf.mh.raistlin.fr/$2",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
             "grouped": false,
             "appliesTo": [
                 "main_frame",
