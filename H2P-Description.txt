@@ -3,10 +3,7 @@
 
 
 [b]En deal avec :[/b]
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_purple.jpg[/img] personne[troll=43406][/troll] [guilde=2102][/guilde]
-
-[b]Mémento - compétences et caractéristiques à trépaner :[/b]
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_purple.jpg[/img] [url=http://alliance-doree.forum-actif.eu/t7310-h2pogee#97006]TrépanaPogée [/url]
+[img]/MH_Packs/packMH_parchemin/bullet/bullet_purple.jpg[/img] Personne[troll=43406][/troll] [guilde=2102][/guilde]
 
 [b]Mémento - sorts envisagés :[/b]
 [img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] [url=http://mountypedia.mountyhall.com/Mountyhall/IdentificationDesTresors]IdT2[/url] (en cours d'apprentissage par ogham)
@@ -14,8 +11,7 @@
 [img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] [url=http://mountypedia.mountyhall.com/Mountyhall/VisionLointaine]VL[/url]
 
 [b]Mémento - matos envisagés :[/b]
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] Anneau de protection du Sable en Mithril : Aura de Feu ou Aura Vengeresse, voire Souffle de Feu (ESQ : +3 | Vue : -1 | Armure : +0-1 | Protection : XXX)
-[img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] Pagne de mailles du Sable en Mithril (ESQ : +5 | Vue : -1 |Armure : 1)
+[img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] 
 
 [b]Mémento - lieu à visiter :[/b]
 [img]/MH_Packs/packMH_parchemin/bullet/bullet_green.jpg[/img] [url=http://www.mountyhall.com/Forum/display_topic_threads.php?ForumID=11&TopicID=155580]Le Musée des Champions[/url] en [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1226977](45, 66, -11)[/url]

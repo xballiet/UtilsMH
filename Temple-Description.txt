@@ -67,6 +67,7 @@ Voici les listes de compos/champis/minerai disponibles :
 [*][guilde=2077]Les copains de Belgarion[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=135165]Au refuge de Belgarion[/url] en (47, -86, -15)
 [*][troll=42930]Lof[/troll] - [guilde=574]Les guerriers de l'Ankou[/guilde] - Échange de compos
 [*][troll=65067]Lord Morkaï[/troll] - [guilde=525]MOUNTY TRöLL[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=46851]MOUNTY TRöLL creeping circus[/url] en (-24, -82, -31) - Échange de compos
+[*][troll=110095]malfu[/troll] et Sieur [troll=109638]Dryanta[/troll] - [guilde=3694]Le réveil du Dragon[/guilde] - Échange matos vs. ogham
 [*][troll=88425]malsat[/troll] et [troll=2450]Klakbeinié[/troll] - [guilde=128]Le clan des Karlaaki[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=33923]Karnaak La Belle[/url] en (84, 27, -50) - Échange de compos
 [*][troll=99348]Mardaag[/troll] - [guilde=3978]~~les GrosPet'Trolls~~~[/guilde] - Échange de compo
 [*][troll=87824]Mamie Ansky[/troll] - [guilde=1729]les ElecTrolls Libres[/guilde] - [url=http://games.mountyhall.com/mountyhall/View/TaniereDescription.php?ai_IDLieu=1690718]Succursale ETL[/url] en (44, 3, -36) - Échanges de compos
